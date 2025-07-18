@@ -103,7 +103,7 @@ Yah repo Act ko **330+ Markdown files** (`pages/001.md` se `pages/330.md` tak) m
 | Section 66A Struck Down (Shreya Singhal) | [260.md](https://github.com/itsbhm/it-act-2000/blob/main/pages/260.md)                  |
 | Data protection & intermediaries (SC verdicts) | [262.md](https://github.com/itsbhm/it-act-2000/blob/main/pages/262.md) – [265.md](https://github.com/itsbhm/it-act-2000/blob/main/pages/265.md)   |
 | Hacking, damage, Section 43 case laws    | [266.md](https://github.com/itsbhm/it-act-2000/blob/main/pages/266.md) – [270.md](https://github.com/itsbhm/it-act-2000/blob/main/pages/270.md)         |
-| Other practical/real-life IT Act cases   | [271.md](ç/271.md) – [330.md](https://github.com/itsbhm/it-act-2000/blob/main/pages/330.md)         |
+| Other practical/real-life IT Act cases   | [271.md](https://github.com/itsbhm/it-act-2000/blob/main/pages/271.md) – [330.md](https://github.com/itsbhm/it-act-2000/blob/main/pages/330.md)         |
 
 ---
 
